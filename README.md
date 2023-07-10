@@ -1,9 +1,6 @@
 # Dollar
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
-
-![view (2)](https://github.com/hossein-deyri/Dollar-trick/assets/136192436/da806abe-1686-42b2-8725-15adaddf76ea)
-
+![view (1)](https://github.com/hossein-deyri/Dollar-trick/assets/136192436/bf4ba248-6e97-4b1c-bff0-1570f4c125aa)
 
 - Developed by Hossein Deyri
 
