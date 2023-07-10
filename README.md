@@ -2,7 +2,7 @@
 
 ![view (1)](https://github.com/hossein-deyri/Dollar-trick/assets/136192436/bf4ba248-6e97-4b1c-bff0-1570f4c125aa)
 
-- [Demo Project](https://hossein-deyri.github.io/First-Project/)
+- [Demo Project](https://hossein-deyri.github.io/Dollar-trick/)
 
 - Developed by Hossein Deyri
 
