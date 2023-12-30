@@ -1,5 +1,5 @@
 # Dollar
-Not Responsive
+(Not Responsive)
 
 ![view (1)](https://github.com/hossein-deyri/Dollar-trick/assets/136192436/bf4ba248-6e97-4b1c-bff0-1570f4c125aa)
 
